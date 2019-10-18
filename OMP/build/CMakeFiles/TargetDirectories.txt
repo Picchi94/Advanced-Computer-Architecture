@@ -1,0 +1,3 @@
+/storage/fpicchirallo/Progetto Architetture Avanzate/OMP/build/CMakeFiles/rebuild_cache.dir
+/storage/fpicchirallo/Progetto Architetture Avanzate/OMP/build/CMakeFiles/Floyd_Warshall_OMP.dir
+/storage/fpicchirallo/Progetto Architetture Avanzate/OMP/build/CMakeFiles/edit_cache.dir

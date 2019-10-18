@@ -1,0 +1,137 @@
+How many time would you execute the OMP version? 
+
+Graph File: nos4               Size: 0 MB        format: (Market)
+
+@File    V: 100           E: 694           Structure: Undirected   avg. deg: 6.9
+     0%     1%     2%     3%     4%     5%     6%     7%     8%     9%    10%    11%    12%    13%    14%    15%    16%    17%    18%    19%    20%    21%    22%    23%    24%    25%    26%    27%    28%    29%    30%    31%    32%    33%    34%    35%    36%    37%    38%    39%    40%    41%    42%    43%    44%    45%    46%    47%    48%    49%    50%    51%    52%    53%    54%    55%    56%    57%    58%    59%    60%    61%    62%    63%    64%    65%    66%    67%    68%    69%    70%    71%    72%    73%    74%    75%    76%    77%    78%    79%    80%    81%    82%    83%    84%    85%    86%    87%    88%    89%    90%    91%    92%    93%    94%    95%    96%    97%    98%    99%   100%
+Double self-loops removed.  E: 594
+COO to CSR...	Complete!
+
+
+TIMING SEQUENTIAL CODE: 0.007529s
+
+Max Threads: 6
+-------------- 1 TIME -------------- 
+TEMPO GLOBAL KERNEL = 0.001974
+SPEED UP BASIC KERNEL = 3.81408x
+CORRECT	
+
+
+-------------- 2 TIME -------------- 
+TEMPO GLOBAL KERNEL = 0.001576
+SPEED UP BASIC KERNEL = 4.77728x
+CORRECT	
+
+
+-------------- 3 TIME -------------- 
+TEMPO GLOBAL KERNEL = 0.001923
+SPEED UP BASIC KERNEL = 3.91524x
+CORRECT	
+
+
+-------------- 4 TIME -------------- 
+TEMPO GLOBAL KERNEL = 0.001919
+SPEED UP BASIC KERNEL = 3.9234x
+CORRECT	
+
+
+-------------- 5 TIME -------------- 
+TEMPO GLOBAL KERNEL = 0.001944
+SPEED UP BASIC KERNEL = 3.87294x
+CORRECT	
+
+
+-------------- 6 TIME -------------- 
+TEMPO GLOBAL KERNEL = 0.001986
+SPEED UP BASIC KERNEL = 3.79104x
+CORRECT	
+
+
+-------------- 7 TIME -------------- 
+TEMPO GLOBAL KERNEL = 0.001909
+SPEED UP BASIC KERNEL = 3.94395x
+CORRECT	
+
+
+-------------- 8 TIME -------------- 
+TEMPO GLOBAL KERNEL = 0.001773
+SPEED UP BASIC KERNEL = 4.24647x
+CORRECT	
+
+
+-------------- 9 TIME -------------- 
+TEMPO GLOBAL KERNEL = 0.000998
+SPEED UP BASIC KERNEL = 7.54409x
+CORRECT	
+
+
+-------------- 10 TIME -------------- 
+TEMPO GLOBAL KERNEL = 0.000996
+SPEED UP BASIC KERNEL = 7.55924x
+CORRECT	
+
+
+-------------- 11 TIME -------------- 
+TEMPO GLOBAL KERNEL = 0.000999
+SPEED UP BASIC KERNEL = 7.53654x
+CORRECT	
+
+
+-------------- 12 TIME -------------- 
+TEMPO GLOBAL KERNEL = 0.001008
+SPEED UP BASIC KERNEL = 7.46925x
+CORRECT	
+
+
+-------------- 13 TIME -------------- 
+TEMPO GLOBAL KERNEL = 0.000999
+SPEED UP BASIC KERNEL = 7.53654x
+CORRECT	
+
+
+-------------- 14 TIME -------------- 
+TEMPO GLOBAL KERNEL = 0.000997
+SPEED UP BASIC KERNEL = 7.55165x
+CORRECT	
+
+
+-------------- 15 TIME -------------- 
+TEMPO GLOBAL KERNEL = 0.000995
+SPEED UP BASIC KERNEL = 7.56683x
+CORRECT	
+
+
+-------------- 16 TIME -------------- 
+TEMPO GLOBAL KERNEL = 0.001042
+SPEED UP BASIC KERNEL = 7.22553x
+CORRECT	
+
+
+-------------- 17 TIME -------------- 
+TEMPO GLOBAL KERNEL = 0.000998
+SPEED UP BASIC KERNEL = 7.54409x
+CORRECT	
+
+
+-------------- 18 TIME -------------- 
+TEMPO GLOBAL KERNEL = 0.000999
+SPEED UP BASIC KERNEL = 7.53654x
+CORRECT	
+
+
+-------------- 19 TIME -------------- 
+TEMPO GLOBAL KERNEL = 0.001012
+SPEED UP BASIC KERNEL = 7.43972x
+CORRECT	
+
+
+-------------- 20 TIME -------------- 
+TEMPO GLOBAL KERNEL = 0.000998
+SPEED UP BASIC KERNEL = 7.54409x
+CORRECT	
+
+
+TEMPO SEQUENZIALE BASIC KERNEL = 0.007529
+TEMPO MINIMO PARALLELO BASIC KERNEL = 0.000995
+MEDIA BASIC KERNEL = 6.11693
+MAX SPEEDUP BASIC KERNEL = 7.56683

@@ -1,0 +1,1 @@
+./execute.sh: line 11: 19558 Terminated              nohup ./build/floydwarshall matrix/net50.mtx >> result/net50.output
